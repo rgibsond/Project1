@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="enter_an_integer">Enter an integer:</string>
+    <string name="enter_a_base">Enter a base:</string>
+    <string name="header_text">Gibson\'s Base Converter</string>
+    <string name="compute_answer">Compute Answer:</string>
+</resources>
